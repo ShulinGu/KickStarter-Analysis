@@ -1,4 +1,4 @@
-# KickStarter-Analysis
+# **KickStarter-Analysis
 * Overview of the Project:
   - The purpose of this project is to determine the relationship between the launch dates and funding goals of different campaigns by visualizing the campaign outcomes using the Kickstarter dataset.
 * Analysis and Challenges:
